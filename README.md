@@ -31,7 +31,7 @@ deactivate GredBot
 ### Скриншоты
 |Панель управления (История)|Панель управления (Плейлисты)|Плеер|
 |---------------------------|-----------------------------|-----|
-|<img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/1.png" alt="screen"/>|<img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/2.png" alt="screen"/>|<img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/3.png" alt="screen"/>|
+|<a href="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/1.png"><img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/1.png" alt="screen"/></a>|<a href="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/2.png"><img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/2.png" alt="screen"/></a>|<a href="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/3.png"><img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/3.png" alt="screen"/></a>|
 
 ### Обратная связь
 Если у Вас возникли какие-то вопросы, пробемы и прочие затруднения, можете написать [здесь](https://github.com/CoMFliP/gred-bot/issues/new) или написать мне на e-mail: comflipcontact@gmail.com
