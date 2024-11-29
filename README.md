@@ -72,7 +72,7 @@ It is also possible to download a playlist from **Youtube** by inserting a link
 ### Screenshots
 |Control Panel (History)|Control Panel (Playlists)|Player|
 |-----------------------|-------------------------|------|
-|<img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/1.png" alt="screen"/>|<img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/2.png" alt="screen"/>|<img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/3.png" alt="screen"/>|
+|<a href="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/1.png"><img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/1.png" alt="screen"/></a>|<a href="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/2.png"><img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/2.png" alt="screen"/></a>|<a href="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/3.png"><img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/screens/3.png" alt="screen"/></a>|
 
 ### Feedback
 If you have any questions, problems or other difficulties, you can write [here](https://github.com/CoMFliP/gred-bot/issues/new) or write to me by e-mail: comflipcontact@gmail.com
