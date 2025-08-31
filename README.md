@@ -8,7 +8,7 @@
 </p>
 
 
-# <img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/logo.ico" alt="logo" width="38" height="38"/> GredBot — музыкальный бот для стриминга
+# <img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/refs/tags/v0.5.0/logo.ico" alt="logo" width="38" height="38"/> GredBot — музыкальный бот для стриминга
 <p align="center">
   <img src="https://img.shields.io/github/v/release/CoMFliP/gred-bot?style=for-the-badge&color=brightgreen" alt="Latest Release">
   <img src="https://img.shields.io/github/downloads/CoMFliP/gred-bot/total?style=for-the-badge&color=blue" alt="Downloads">

@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# <img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/main/logo.ico" alt="logo" width="38" height="38"/> GredBot — Music Bot for Streaming
+# <img src="https://raw.githubusercontent.com/CoMFliP/gred-bot/refs/tags/v0.5.0/logo.ico" alt="logo" width="38" height="38"/> GredBot — Music Bot for Streaming
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/CoMFliP/gred-bot?style=for-the-badge&color=brightgreen" alt="Latest Release">
